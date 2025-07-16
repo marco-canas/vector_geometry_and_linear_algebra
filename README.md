@@ -96,6 +96,9 @@ Este curso integra **álgebra lineal** con **ciencia de datos aplicada a la agri
 | 9-12       | Redes neuronales                   | TensorFlow               |  
 | 13-16      | Proyecto integrador                | Todo lo anterior         |  
 
+Horario: Martes de 2 a 5 PM. 
+
+Empezamos el curso el 5 de Agosto. 
 ---
 
 ## **8. Habilidades Blandas**  
@@ -104,4 +107,4 @@ Este curso integra **álgebra lineal** con **ciencia de datos aplicada a la agri
 
 --- 
 
-**Nota:** Este programa alinea los contenidos con los grupos de investigación UdeA como *"Analítica e Investigación para la Toma de Decisiones (ALIADO)"* , asegurando pertinencia en el sector agropecuario.
+**Nota:** Este programa alinea los contenidos con los grupos de investigación UdeA como [*"Analítica e Investigación para la Toma de Decisiones (ALIADO)"*](https://www.udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ingenieria-tecnologia/aliado) , asegurando pertinencia en el sector agropecuario.
