@@ -23,7 +23,7 @@ Aquí tienes el diseño del plan de curso **"Vector Geometry and Linear Algebra"
 | Nombre del curso         | Vector Geometry and Linear Algebra with Agricultural Applications             |
 | Programa académico       | Ingeniería Agropecuaria                                                       |
 | Unidad académica         | Facultad de Ciencias Agrarias                                                 |
-| Vigencia                 | 2025-1                                                                       |
+| Vigencia                 | 2025-2                                                                       |
 | Código curso             | MATE-AGRO-4012                                                               |
 | Tipo de curso            | Teórico-práctico                                                             |
 | Modalidad                | Presencial con componentes virtuales (blended)                               |
