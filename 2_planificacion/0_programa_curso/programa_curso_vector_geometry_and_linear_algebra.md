@@ -30,7 +30,8 @@ Aquí tienes el diseño del plan de curso **"Vector Geometry and Linear Algebra"
 | Créditos académicos      | 4                                                                            |
 | Horas estudiante-profesor| 64 (32 teóricas, 32 prácticas)                                               |
 | Horas trabajo independiente | 80                                                                        |
-| Horas totales            | 144                                                                          |
+|Horas de asesoría|16|
+| Horas totales            | 160                                                                          |
 
 ---
 
