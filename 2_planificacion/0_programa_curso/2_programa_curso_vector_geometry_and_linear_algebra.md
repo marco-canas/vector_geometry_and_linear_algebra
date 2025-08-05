@@ -24,7 +24,7 @@ Aquí tienes el diseño del plan de curso **"Vector Geometry and Linear Algebra"
 | Programa académico       | Ingeniería Agropecuaria                                                       |
 | Unidad académica         | Facultad de Ciencias Agrarias                                                 |
 | Vigencia                 | 2025-2                                                                       |
-| Código curso             | MATE-AGRO-4012                                                               |
+| Código curso             | 5009318                                                               |
 | Tipo de curso            | Teórico-práctico                                                             |
 | Modalidad                | Presencial con componentes virtuales (blended)                               |
 | Créditos académicos      | 4                                                                            |
@@ -86,7 +86,7 @@ Contribuye al perfil del ingeniero agropecuario mediante:
 
 ## 6. METODOLOGÍA  
 **Estrategias**:  
-- ☑ Aprendizaje Basado en Proyectos (ABP)  
+- ☑ Aprendizaje Basado en Proyectos (ABPP)  
 - ☑ Clases invertidas (material en GitHub antes de sesiones)  
 - ☑ Tutorías con ingenieros de Agrosavia  
 
