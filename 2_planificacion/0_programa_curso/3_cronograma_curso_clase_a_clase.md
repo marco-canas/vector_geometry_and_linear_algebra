@@ -1,6 +1,6 @@
 # Prompt para el diseño de este cronograma  utilizando DeepSeek  
 
-Dame el cronograma clase a clase para el curso de "vector geometry_and_linear_algebra" de acuerdo al programa que te adjunto y la secuencia sobre algebra lineal para ciencia de datos seguida por Aurélien Géron en: https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb y en https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb. Por favor ten en cuenta para el diseño de este cronograma que: 1. el curso es de 64 horas presenciales teóricas; 2. se realizarán 4 parciales de dos horas cada uno para un total de 8 horas de las 64 horas del curso; 3. se realizarán 6 quices de media hora cada uno para un total de 3 horas de las 64 del curso; el curso empieza el martes 5 de agosto de 2025 y cada clase es de 4 horas por semana para un total de 16 clases presenciales en el semestre. Pero dame este cronograma en idioma español.   
+Dame el cronograma clase a clase para el curso de "vector geometry_and_linear_algebra" de acuerdo al programa que te adjunto y la secuencia sobre algebra lineal para ciencia de datos seguida por Aurélien Géron en: https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb y en https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb. Por favor ten en cuenta para el diseño de este cronograma que: 1. el curso es de 64 horas presenciales teóricas; 2. se realizarán 4 parciales de dos horas cada uno para un total de 8 horas de las 64 horas del curso; 3. se realizarán 6 quices de media hora cada uno para un total de 3 horas de las 64 del curso; el curso empieza el martes 5 de agosto de 2025 y cada clase es de 3 horas por semana para un total de 21 clases presenciales en el semestre. Pero dame este cronograma en idioma español.    
 
 
 
@@ -8,7 +8,7 @@ Dame el cronograma clase a clase para el curso de "vector geometry_and_linear_al
 
 **Universidad de Antioquia - Facultad de Ciencias Agrarias**  
 **Campus Caucasia - 2025-2**  
-**Horario:** Martes 8:00 AM - 12:00 PM (4 horas semanales)  
+**Horario:** Martes 2:00 PM - 5:00 PM (3 horas semanales)  
 **Total horas presenciales:** 64 horas (16 semanas)  
 **Inicio:** Martes 5 de agosto de 2025  
 **Finalización:** Martes 25 de noviembre de 2025  
@@ -19,7 +19,8 @@ Dame el cronograma clase a clase para el curso de "vector geometry_and_linear_al
 - **16 sesiones** (4 horas cada una, divididas en: 1h teoría, 2h práctica, 1h evaluación/quices)  
 - **4 parciales** (integrados en las clases, 2 horas cada uno)  
 - **6 quices** (30 minutos cada uno, durante las clases)  
-- **Proyectos aplicados** (basados en los notebooks de Géron y datasets agrícolas)  
+- **Proyectos aplicados** (basados en 
+  * [los notebooks de Géron](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb) y datasets agrícolas)  
 
 ---
 
