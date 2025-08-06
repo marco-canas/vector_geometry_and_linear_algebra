@@ -123,7 +123,7 @@ Este curso contribuye al perfil del ingeniero agropecuario al:
 | **Cultura/Zona**       | **Bibliografía**                                                                 | **Palabras Clave**          |  
 |------------------------|---------------------------------------------------------------------------------|-----------------------------|  
 | Global                 | Géron, A. (2022). *Hands-On Machine Learning with Scikit-Learn and TensorFlow*. | PCA, CNN, agricultura       |  
-| Colombia (Caucasia)    | Datos abiertos Agronet (2025). *Producción de arroz en Antioquia*.              | Imágenes drones, rendimiento |  
+| Colombia (Caucasia)    | Datos abiertos [Agronet (2025)](https://www.agronet.gov.co/estadistica/paginas/home.aspx). *Producción de arroz en Antioquia*.              | Imágenes drones, rendimiento |  
 
 ---
 

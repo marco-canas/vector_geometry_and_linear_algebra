@@ -4,99 +4,142 @@ Dame el cronograma clase a clase para el curso de "vector geometry_and_linear_al
 
 
 
-# **Cronograma Detallado: Vector Geometry and Linear Algebra**
-
-**Universidad de Antioquia - Facultad de Ciencias Agrarias**  
-**Campus Caucasia - 2025-2**  
-**Horario:** Martes 2:00 PM - 5:00 PM (3 horas semanales)  
-**Total horas presenciales:** 64 horas (16 semanas)  
-**Inicio:** Martes 5 de agosto de 2025  
-**Finalización:** Martes 25 de noviembre de 2025  
+Aquí tienes el cronograma detallado para el curso **"Geometría Vectorial y Álgebra Lineal para Ciencia de Datos Agrícolas"**, alineado con el programa anterior y los recursos de Aurélien Géron. Se integran las 21 clases de 3 horas (64 horas totales, incluyendo 8h de parciales y 3h de quices), comenzando el **5 de agosto de 2025**:
 
 ---
 
-## **Estructura General**
-- **16 sesiones** (4 horas cada una, divididas en: 1h teoría, 2h práctica, 1h evaluación/quices)  
-- **4 parciales** (integrados en las clases, 2 horas cada uno)  
-- **6 quices** (30 minutos cada uno, durante las clases)  
-- **Proyectos aplicados** (basados en 
-  * [los notebooks de Géron](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb) y datasets agrícolas)  
+### **Cronograma Clase a Clase**  
+*(Martes, 3 horas por sesión)*  
+
+#### **Semana 1-2: Fundamentos de Álgebra Lineal**  
+**Clase 1 (5/08/2025)**  
+- **Tema:** Introducción al curso y contexto agrícola (IAE).  
+  - Presentación del proyecto IAE: *"Análisis de imágenes de arroz en Caucasia"*.  
+  - Vectores en datos climáticos y agrícolas (ej: variables de suelo).  
+- **Actividad:** Instalación de Python y NumPy (*tools_numpy.ipynb*).  
+
+**Clase 2 (12/08/2025)**  
+- **Tema:** Operaciones con matrices (Géron: *math_linear_algebra.ipynb*).  
+  - Suma, multiplicación, transpuesta.  
+  - Aplicación: Matrices de rendimiento de cultivos.  
+- **Quiz 1** (30 min): Operaciones básicas con NumPy.  
 
 ---
 
-## **Cronograma por Semanas**
+#### **Semana 3-4: Sistemas Lineales y Aplicaciones**  
+**Clase 3 (19/08/2025)**  
+- **Tema:** Sistemas de ecuaciones lineales.  
+  - Métodos de solución (eliminación Gaussiana).  
+  - Caso agrícola: Balance nutricional en suelos.  
 
-### **Módulo 1: Fundamentos de Álgebra Vectorial**  
-*(Semanas 1-4, basado en Capítulos 1-3 del material de Géron)*  
-
-| **Sem** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|---------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **1**   | 5 ago 2025      | - Vectores en $\mathbb{R}^2$ y $\mathbb{R}^3$: definición y operaciones.<br>- Normas y producto punto.<br>- Aplicación: Análisis de parcelas agrícolas. | - **Quiz 1:** Propiedades vectoriales.<br>- **Práctica:** Visualización con `matplotlib` (datos de Agronet). |  
-| **2**   | 12 ago 2025     | - Matrices: representación, suma y multiplicación.<br>- Sistemas de coordenadas en drones agrícolas. | - **Práctica:** Operaciones matriciales con NumPy (datos climáticos IDEAM). |  
-| **3**   | 19 ago 2025     | - Transformaciones lineales: rotación, escalado.<br>- Caso aplicado: Ajuste de imágenes satelitales. | - **ABP Inicio:** Diseño de herramienta para mapeo de cultivos. |  
-| **4**   | 26 ago 2025     | - **Parcial 1** (Vectores y matrices).<br>- **Entrega ABP 1:** Visualización de parcelas con Plotly. | - Retroalimentación con cooperativas arroceras. |  
-
----
-
-### **Módulo 2: Sistemas Lineales y Optimización**  
-*(Semanas 5-8, basado en Capítulos 4-6 de Géron)*  
-
-| **Sem** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|---------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **5**   | 2 sep 2025      | - Sistemas $Ax = b$: interpretación geométrica.<br>- Métodos de solución (eliminación gaussiana).<br>- Aplicación: Balance de nutrientes en suelos. | - **Quiz 2:** Resolución de sistemas.<br>- **Práctica:** Uso de `scipy.linalg.solve`. |  
-| **6**   | 9 sep 2025      | - Matriz inversa y determinantes.<br>- Caso: Optimización de mezclas de fertilizantes. | - **Práctica:** Simulación con datos reales de Agrosavia. |  
-| **7**   | 16 sep 2025     | - Factorización LU.<br>- Aplicación: Predicción de rendimientos con variables climáticas. | - **ABP Avance:** Modelo de optimización de riego. |  
-| **8**   | 23 sep 2025     | - **Parcial 2** (Sistemas lineales).<br>- **Entrega ABP 2:** Informe técnico + código GitHub. | - Validación con ingenieros agrónomos. |  
+**Clase 4 (26/08/2025)**  
+- **Tema:** Factorización LU y aplicaciones.  
+  - Uso en optimización de recursos hídricos.  
+- **Quiz 2** (30 min): Resolución de sistemas con NumPy.  
 
 ---
 
-### **Módulo 3: Descomposición Matricial y Aplicaciones**  
-*(Semanas 9-12, basado en Capítulos 7-9 de Géron)*  
+#### **Semana 5-6: Descomposiciones Matriciales**  
+**Clase 5 (02/09/2025)**  
+- **Tema:** Autovalores y autovectores (Géron: SVD/PCA).  
+  - Aplicación: Estabilidad de ecosistemas agrícolas.  
 
-| **Sem** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|---------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **9**   | 30 sep 2025     | - Valores y vectores propios.<br>- Caso: Estabilidad de suelos en pendientes. | - **Quiz 3:** Cálculo con `numpy.linalg.eig`. |  
-| **10**  | 7 oct 2025      | - Descomposición SVD.<br>- Aplicación: Compresión de imágenes multiespectrales. | - **Práctica:** Análisis de imágenes de drones (dataset SIATA). |  
-| **11**  | 14 oct 2025     | - PCA para reducción de dimensionalidad.<br>- Detección de estrés hídrico. | - **Quiz 4:** Interpretación de componentes principales. |  
-| **12**  | 21 oct 2025     | - **Parcial 3** (Descomposiciones matriciales).<br>- **Entrega ABP 3:** PCA aplicado a cultivos. | - Socialización con agricultores. |  
-
----
-
-### **Módulo 4: Integración y Proyecto Final**  
-*(Semanas 13-16, integración de contenidos)*  
-
-| **Sem** | **Fecha**       | **Contenidos**                                                                 | **Actividades/Evaluación**                                                                 |  
-|---------|-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|  
-| **13**  | 28 oct 2025     | - Repaso de conceptos clave.<br>- Tutorías para proyecto final. | - **Práctica:** Debugging colaborativo en GitHub. |  
-| **14**  | 4 nov 2025      | - Integración de herramientas: NumPy, SciPy, Pandas.<br>- Caso: Análisis integral de finca modelo. | - **Quiz 5:** Flujo de trabajo con datos reales. |  
-| **15**  | 18 nov 2025     | - **Parcial 4** (Evaluación integral).<br>- Revisión de portafolios GitHub. | - **Entrega ABP 4:** Solución tecnológica para cooperativa. |  
-| **16**  | 25 nov 2025     | - **Exposición Final:** Presentación de proyectos ante comunidad académica y socios agrícolas.<br>- Cierre y reflexión IAE. | - Autoevaluación y rúbricas de impacto social. |  
+**Clase 6 (09/09/2025)**  
+- **Tema:** Descomposición en Valores Singulares (SVD).  
+  - Ejemplo: Compresión de imágenes de drones.  
+- **Parcial 1** (2h): Vectores, matrices y sistemas lineales.  
 
 ---
 
-## **Recursos Clave por Módulo**
-- **GitHub de Géron:**  
-  - [Álgebra Lineal para ML](https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb)  
-  - [NumPy para Ciencia de Datos](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb)  
-- **Datasets:**  
-  - [Agronet](https://www.agronet.gov.co) (rendimientos agrícolas)  
-  - [IDEAM](https://www.ideam.gov.co) (datos climáticos)  
+#### **Semana 7-8: Geometría Vectorial Aplicada**  
+**Clase 7 (16/09/2025)**  
+- **Tema:** Producto escalar y proyecciones.  
+  - Modelado 3D de terrenos con drones.  
+
+**Clase 8 (23/09/2025)**  
+- **Tema:** Transformaciones lineales.  
+  - Rotación y escalado en imágenes satelitales.  
+- **Quiz 3** (30 min): Geometría con Python.  
 
 ---
 
-## **Evaluaciones Sumativas**
-| **Evaluación**       | **Fecha**               | **Contenido**                                                                 |  
-|-----------------------|-------------------------|-------------------------------------------------------------------------------|  
-| Parcial 1             | 26 de agosto 2025       | Vectores, matrices y transformaciones lineales.                               |  
-| Parcial 2             | 23 de septiembre 2025   | Sistemas lineales y optimización.                                             |  
-| Parcial 3             | 21 de octubre 2025      | Descomposición matricial (SVD, PCA).                                          |  
-| Parcial 4             | 18 de noviembre 2025    | Integración de conceptos en proyecto agrícola.                                |  
+#### **Semana 9-10: Machine Learning Básico**  
+**Clase 9 (30/09/2025)**  
+- **Tema:** PCA para reducción de dimensionalidad.  
+  - Dataset: Variables climáticas vs. rendimiento de arroz.  
+
+**Clase 10 (07/10/2025)**  
+- **Tema:** Regresión lineal múltiple.  
+  - Predicción de cosechas usando matrices.  
+- **Parcial 2** (2h): Descomposiciones y geometría.  
 
 ---
 
-### **Notas:**  
-1. Todas las prácticas usan Python (Jupyter Notebook) con bibliotecas como NumPy, Matplotlib y SciPy.  
-2. Los proyectos ABP se desarrollan en equipos multidisciplinares (estudiantes + agricultores).  
-3. El cronograma sigue la secuencia pedagógica de Géron, adaptada al contexto agrícola del Bajo Cauca.  
+#### **Semana 11-13: Reconocimiento de Imágenes**  
+**Clase 11 (14/10/2025)**  
+- **Tema:** Introducción a CNN (conceptos básicos).  
+  - Librerías: TensorFlow/Keras.  
 
-**"Las matemáticas no son abstractas cuando se usan para predecir una cosecha o salvar un cultivo"**
+**Clase 12 (21/10/2025)**  
+- **Tema:** Procesamiento de imágenes de drones.  
+  - Extracción de características (color, textura).  
+- **Quiz 4** (30 min): PCA aplicado a imágenes.  
+
+**Clase 13 (28/10/2025)**  
+- **Tema:** Proyecto IAE (fase 1): Análisis exploratorio.  
+  - Dataset: Imágenes de arrozales en Caucasia.  
+
+---
+
+#### **Semana 14-16: Profundización en Proyectos**  
+**Clase 14 (04/11/2025)**  
+- **Tema:** Optimización de modelos.  
+  - Ajuste de hiperparámetros con álgebra lineal.  
+
+**Clase 15 (11/11/2025)**  
+- **Tema:** Validación cruzada.  
+  - Métricas para agricultura de precisión.  
+- **Parcial 3** (2h): Machine learning básico.  
+
+**Clase 16 (18/11/2025)**  
+- **Quiz 5** (30 min): Interpretación de resultados.  
+- **Taller:** Avances del proyecto IAE.  
+
+---
+
+#### **Semana 17-19: Cierre y Evaluación**  
+**Clase 17 (25/11/2025)**  
+- **Tema:** Integración de resultados.  
+  - Visualización con matplotlib/seaborn.  
+
+**Clase 18 (02/12/2025)**  
+- **Quiz 6** (30 min): Herramientas de visualización.  
+- **Reflexión IAE:** Discusión con agricultores invitados.  
+
+**Clase 19 (09/12/2025)**  
+- **Parcial 4** (2h): Proyecto integrador (informe + código).  
+
+---
+
+#### **Semana 20-21: Socialización y Retroalimentación**  
+**Clase 20 (16/12/2025)**  
+- Presentación de proyectos IAE (50% nota final).  
+- **Panel:** Invitados de Fedearroz y Agronet.  
+
+**Clase 21 (23/12/2025)**  
+- **Cierre:** Lecciones aprendidas y plan de mejora para 2026-1.  
+- Entrega de informes finales.  
+
+---
+
+### **Distribución de Tiempo**  
+- **Clases teórico-prácticas:** 45 horas (15 sesiones × 3h).  
+- **Evaluaciones (parciales/quices):** 11 horas.  
+- **Proyecto IAE:** 8 horas (clases 13, 17, 20).  
+
+### **Recursos Clave**  
+- **GitHub de Géron:** [math_linear_algebra.ipynb](https://github.com/ageron/handson-ml3/blob/main/math_linear_algebra.ipynb) y [tools_numpy.ipynb](https://github.com/ageron/handson-ml3/blob/main/tools_numpy.ipynb).  
+- **Dataset local:** Imágenes de drones (Fedearroz-Caucasia).  
+
+
+> **Nota:** Cada clase incluye 30 min de discusión IAE (reflexión sobre aplicaciones agrícolas).  
