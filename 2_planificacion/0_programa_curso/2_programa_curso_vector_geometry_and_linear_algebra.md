@@ -110,11 +110,13 @@ Este curso contribuye al perfil del ingeniero agropecuario al:
 ## **7. EVALUACIÓN**  
 
 | **Momentos de Evaluación**       | **Porcentaje** |  
-|----------------------------------|----------------|  
-| Proyecto IAE (imágenes de arroz) | 40%            |  
-| Talleres prácticos (Python)      | 30%            |  
-| Participación en reflexiones IAE | 20%            |  
-| Autoevaluación                   | 10%            |  
+|----------------------------------|----------------|
+|parciales|20%|  
+| Tareas | 20%            |  
+| Quices o Talleres prácticos (Python)      | 20%            |  
+| Proyecto | 30%            |  
+| Autoevaluación                   | 5%        | 
+|Instalacion de VS Code|5%| 
 
 ---
 
