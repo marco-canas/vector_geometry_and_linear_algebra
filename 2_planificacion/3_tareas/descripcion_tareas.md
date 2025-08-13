@@ -8,4 +8,12 @@ Los cuadernos que se envíen, solo se reciben a través del correo marco.canas@u
 
 |Fecha del Cuaderno de clase|Estudiantes que presentaron su cuaderno elaborado|
 |---------------------------|-------------------------------------------------|
-|12 de agosto|Erlinda, Yanine, Cristian, Gabriela, Laura, |
+|12 de agosto|Erlinda, Yanine, Cristian, Gabriela, Laura, |  
+
+# Descripción de la tarea 1    
+
+1. Tome una foto con su celular de un cultivo de nuestra región del bajo Cauca. 
+2. Consulte con ChatGPT, el código Python para visualizar esta foto en su computador y a través de Googoe Colab o VS Code. 
+3. Consulte en ChatGPT el código Python para convertir la foto en una matriz, utilizando el método .to_array() de NumPy. 
+4. Visualice con Python, los tres compomentes RGB de su foto utilizando Matplotlib. 
+5. Describir o narrar la manera de visualizar la representación matricial de la imagen del cultivo. 
