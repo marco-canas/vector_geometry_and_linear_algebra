@@ -7,8 +7,7 @@ Dame un diseño para el plan de curso "Vector Geometry and Linear Algebra" de ac
 
 
 # **PROGRAMA OFICIAL DE CURSO**  
-
-**(Pregrado y Posgrado)**  
+  
 
 **UNIVERSIDAD DE ANTIOQUIA**  
 
@@ -21,11 +20,11 @@ Dame un diseño para el plan de curso "Vector Geometry and Linear Algebra" de ac
 | **Programa académico al que pertenece:** | Ingeniería Agropecuaria |  
 | **Programa(s) académico(s) a los cuales se ofrece el curso:** | Ingeniería Agropecuaria |  
 | **Vigencia:**                  | Semestre 2025-2 |  
-| **Código curso:**              | MAT-AGRO-2025-2 |  
+| **Código curso:**              | 5009318 |  
 | **Nombre del curso:**          | Vector Geometry and Linear Algebra for Agricultural Data Science |  
 | **Tipo de curso:**             | Obligatorio |  
 | **Clase de curso:**            | Teórico-Práctico |  
-| **Características del curso:** | Validable ☑️ Habilitable ☐ Clasificable ☐ Evaluación de suficiencia (posgrado) ☐ |  
+| **Características del curso:** | Validable X Habilitable X Clasificable ☐ Evaluación de suficiencia (posgrado) ☐ |  
 | **Modalidad educativa del curso:** | Presencial con componentes virtuales (blended learning) |  
 | **Área/Núcleo:**              | Matemáticas Aplicadas |  
 | **Pre-requisitos:**           | Cálculo Diferencial (MAT-CAL-101) |  
@@ -43,7 +42,7 @@ Dame un diseño para el plan de curso "Vector Geometry and Linear Algebra" de ac
 
 Este curso contribuye al perfil del ingeniero agropecuario al:  
 - Desarrollar habilidades en **álgebra lineal aplicada** para optimizar procesos agrícolas mediante ciencia de datos.  
-- Capacitar en el uso de herramientas computacionales (*Python, Scikit-Learn, TensorFlow*) para análisis de imágenes satelitales y de drones.  
+- Capacitar en el uso de herramientas computacionales (*Python, NumPy, Matplotlib, Scikit-Learn, TensorFlow*) para análisis de imágenes satelitales, de drones y predicción de rendimiento de cultivos agrarios en función del clima en el Bajo Cauca Antioqueño.  
 - Fomentar la **investigación-acción** mediante proyectos reales en el Bajo Cauca antioqueño (ej: predicción de rendimiento de arroz).  
 
 ---
@@ -51,7 +50,7 @@ Este curso contribuye al perfil del ingeniero agropecuario al:
 ## **3. INTENCIONALIDADES FORMATIVAS**  
 
 ### **Competencias:**  
-1. Aplicar conceptos de **vectores, matrices y descomposiciones (PCA, SVD)** en datasets agrícolas.  
+1. Aplicar conceptos de **vectores, matrices y descomposiciones (Ánálisis de Componentes Principales (PCA), Descomposición en Valores Singulares (SVD))** en datasets agrícolas.  
 2. Implementar algoritmos de **machine learning** para análisis de imágenes de cultivos.  
 3. Diseñar soluciones basadas en datos para problemas locales (ej: plagas, riego).  
 
@@ -86,13 +85,15 @@ Este curso contribuye al perfil del ingeniero agropecuario al:
 4. **Proyecto IAE: Análisis de Imágenes de Arroz en Caucasia**  
    - Dataset: Imágenes de drones (cooperativas locales).  
    - Métricas: Rendimiento vs. variables visuales (color, textura).  
-
+5. **Predicción del rendimiento de cultivos de arroz en función del clima**
+     - Usaremos creación de datos artificiales de clima y de rendimiento de cultivos de arroz en Caucasia para aprender a hacer la visualización tabular u gráfica de estos datos. 
+     - Y para luego aprender a hacer la modelación con machine learning y deep learning de estos datos. 
 ---
 
 ## **6. METODOLOGÍA**  
 
 ### **Estrategias Didácticas:**  
-- **Aprendizaje Basado en Proyectos (ABP):** Casos reales con productores de arroz.  
+- **Aprendizaje Basado en Problemas y Proyectos (ABPP):** Casos reales con productores de arroz.  
 - **Ciclos IAE:**  
   - **Diagnóstico:** Encuestas a agricultores.  
   - **Acción:** Implementación de modelos en Python.  
@@ -112,10 +113,10 @@ Este curso contribuye al perfil del ingeniero agropecuario al:
 | **Momentos de Evaluación**       | **Porcentaje** |  
 |----------------------------------|----------------|
 |parciales|20%|  
-| Tareas | 20%            |  
-| Quices o Talleres prácticos (Python)      | 20%            |  
-| Proyecto | 30%            |  
-| Autoevaluación                   | 5%        | 
+| Tareas | 20% |  
+| Quices o Talleres prácticos (Python)| 20%            |  
+| Proyecto | 30% |  
+| Autoevaluación | 5%| 
 |Instalacion de VS Code|5%| 
 
 ---
@@ -133,25 +134,24 @@ Este curso contribuye al perfil del ingeniero agropecuario al:
 
 | **Nombre**              | **Unidad**         | **Formación**       | **Participación** |  
 |-------------------------|--------------------|---------------------|-------------------|  
-| Marco Julio Cañas       | Ciencias Agrarias  | PhD Data Science    | 70%               |  
-| Colaborador Fedearroz   | Socio externo      | Ingeniería Agrícola | 30%               |  
+| Marco Julio Cañas       | Ciencias Agrarias  | PhD Data Science    | 100%               |  
+ 
 
 ---
 
 ## **10. APROBACIÓN**  
-Aprobado en Acta N° 2025-02-15 del Consejo de Facultad.  
+  
 
 **Firma:**  
 *Marco Julio Cañas Campillo*  
-**Cargo:** Coordinador Académico  
+**Cargo:** Profesor del Curso en el semestre 2025-2  
 
---- 
+
 
 **Nota:** Este diseño sigue el modelo IAE, integrando:  
 - **Ciencia de datos** con imágenes de drones.  
 - **Impacto local** (arroz en Caucasia).  
 - **Iteración semestral** basada en retroalimentación.  
 
-```markdown
-> **Para Humanos XXI:** Este plan ejemplifica cómo la IAE transforma la enseñanza técnica en soluciones sociales (ODS 2: Hambre cero).  
-```
+
+**Para Humanos XXI:** Este plan ejemplifica cómo la IAE transforma la enseñanza técnica en soluciones sociales (ODS 2: Hambre cero).  

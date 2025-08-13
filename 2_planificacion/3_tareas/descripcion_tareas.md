@@ -10,7 +10,7 @@ Los cuadernos que se envíen, solo se reciben a través del correo marco.canas@u
 |---------------------------|-------------------------------------------------|
 |12 de agosto|Erlinda, Yanine, Cristian, Gabriela, Laura, |  
 
-# Descripción de la tarea 1    
+# Descripción de la tarea 1 (Fecha límite de entrega: 20 de agosto de 2025)    
 
 1. Tome una foto con su celular de un cultivo de nuestra región del bajo Cauca. 
 2. Consulte con ChatGPT, el código Python para visualizar esta foto en su computador y a través de Googoe Colab o VS Code. 
