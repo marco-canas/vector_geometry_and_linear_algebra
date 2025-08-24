@@ -17,3 +17,12 @@ Los cuadernos que se envíen, solo se reciben a través del correo marco.canas@u
 3. Consulte en ChatGPT el código Python para convertir la foto en una matriz, utilizando el método .to_array() de NumPy. 
 4. Visualice con Python, los tres compomentes RGB de su foto utilizando Matplotlib. 
 5. Describir o narrar la manera de visualizar la representación matricial de la imagen del cultivo. 
+
+
+# Descripción de la tarea 2 (Fecha límite de entrega: 27 de agosto de 2025)  
+
+Descripción en video dell código Python para: 
+1. Definir vectores 
+2. calcular producto escalar
+3. calcular norma de un vector
+4. Calcular el producto vectorial entre vectores. 
