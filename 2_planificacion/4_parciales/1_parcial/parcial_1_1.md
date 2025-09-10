@@ -28,13 +28,13 @@ El **Parcial 1** está programado para el **16 de septiembre (Clase 7)** y debe 
 
 #### Parte A. Vectores y operaciones (30 puntos)
 
-1. (5 pts) Sea \$\vec{u} = (3, -2, 1)\$ y \$\vec{v} = (1, 4, -2)\$. Calcule:
-   a) \$\vec{u} + \vec{v}\$
-   b) \$2\vec{u} - 3\vec{v}\$
+1. (5 pts) Sea $\vec{u} = (3, -2, 1)$ y $\vec{v} = (1, 4, -2)$. Calcule:
+   a) $\vec{u} + \vec{v}$
+   b) $2\vec{u} - 3\vec{v}$
 
-2. (10 pts) Calcule el producto escalar \$\vec{u} \cdot \vec{v}\$ y el ángulo entre \$\vec{u}\$ y \$\vec{v}\$.
+2. (10 pts) Calcule el producto escalar $\vec{u} \cdot \vec{v}$ y el ángulo entre $\vec{u}$ y \$\vec{v}\$.
 
-3. (10 pts) Calcule el producto vectorial \$\vec{u} \times \vec{v}\$ y verifique que es ortogonal tanto a \$\vec{u}\$ como a \$\vec{v}\$.
+3. (10 pts) Calcule el producto vectorial $\vec{u} \times \vec{v}\$ y verifique que es ortogonal tanto a $\vec{u}$ como a $\vec{v}$.
 
 4. (5 pts) Interprete geométricamente la **norma** de \$\vec{u}\$ en relación con una aplicación en Ingeniería Agropecuaria (ejemplo: distancia de un dron a un cultivo).
 
