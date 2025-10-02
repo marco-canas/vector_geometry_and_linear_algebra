@@ -1,6 +1,6 @@
 
 
-Responsables para el sábado:  
+Responsables para el sábado 4 de octubre 2025:  
 
 1. Rivaldo José
 2. Yanine
@@ -123,4 +123,91 @@ El dron Tello se convierte en un **laboratorio volante** donde los estudiantes i
 
 ---
 
-¿Quieres que te prepare esta guía también en **formato de presentación tipo diapositivas (PowerPoint o Canva-like)** para que tus estudiantes la tengan visualmente más atractiva en clase?
+¿Quieres que te prepare esta guía también en **formato de presentación tipo diapositivas (PowerPoint o Canva-like)** para que tus estudiantes la tengan visualmente más atractiva en clase?  
+
+# Tareas 
+
+* Consultar sobre el giroscopio y su uso en drones.
+* Consultar sobre el acelerómetro y su uso en drones.
+
+
+# Sitemas de medida para el Dron  
+
+Perfecto, Marco 🚀. Te explico:
+
+## 📏 Sistema Métrico (o Sistema Internacional de Unidades – SI)
+
+Es el sistema de medida más usado en el mundo, basado en **múltiplos de 10**. Sus características principales:
+
+* **Unidad de longitud**: **metro (m)**
+* **Unidad de masa**: **kilogramo (kg)**
+* **Unidad de volumen**: **litro (L)**
+* **Unidad de temperatura**: **grado Celsius (°C)**
+* **Unidad de energía**: **joule (J)**
+
+Lo más importante es que es **decimal**, es decir, pasar de una unidad a otra solo requiere multiplicar o dividir entre 10, 100, 1000, etc.
+👉 Ejemplo: 1 km = 1000 m, 1 L = 1000 mL.
+
+Se usa en **casi todos los países** (incluido Colombia).
+
+---
+
+## 📐 Sistema de Medidas de Estados Unidos (US customary system)
+
+Este sistema **no es decimal** y está basado en unidades históricas de origen inglés. Algunas características:
+
+* **Unidad de longitud**: **pulgada (inch, in), pie (foot, ft), yarda (yard, yd), milla (mile, mi)**
+
+  * 1 ft = 12 in, 1 yd = 3 ft, 1 mi = 1760 yd.
+* **Unidad de masa/peso**: **onza (oz), libra (lb), tonelada corta (ton)**
+
+  * 1 lb = 16 oz, 1 ton (EE.UU.) = 2000 lb.
+* **Unidad de volumen**: **pinta (pint), cuarto (quart), galón (gallon)**
+
+  * 1 gallon = 4 quarts = 8 pints.
+* **Unidad de temperatura**: **grado Fahrenheit (°F)**
+* **Unidad de energía**: **BTU (British Thermal Unit)**
+
+Este sistema se usa principalmente en **Estados Unidos, Liberia y Myanmar**.
+
+---
+
+## 🔄 Comparación entre los dos sistemas
+
+| Magnitud    | Sistema Métrico (SI)      | Sistema de EE.UU.            |
+| ----------- | ------------------------- | ---------------------------- |
+| Longitud    | metro (m), km             | pulgada, pie, yarda, milla   |
+| Masa/Peso   | gramo (g), kilogramo (kg) | onza, libra, tonelada corta  |
+| Volumen     | litro (L), mililitro (mL) | pinta, cuarto, galón         |
+| Temperatura | grados Celsius (°C)       | grados Fahrenheit (°F)       |
+| Conversión  | Decimal, múltiplos de 10  | Fracciones (12, 3, 16, etc.) |
+| Uso         | Mundial                   | EE.UU., Liberia, Myanmar     |
+
+---
+
+## 🌡️ Ejemplos de conversión
+
+* **Temperatura**:
+
+  * 0 °C = 32 °F
+  * 100 °C = 212 °F
+
+* **Longitud**:
+
+  * 1 in = 2.54 cm
+  * 1 mi ≈ 1.609 km
+
+* **Masa/Peso**:
+
+  * 1 kg ≈ 2.204 lb
+
+* **Volumen**:
+
+  * 1 L ≈ 0.264 galones (US)
+
+---
+
+📌 En resumen:
+El **sistema métrico** es más simple y universal porque es decimal. El **sistema estadounidense** es más complejo porque no sigue múltiplos de 10, pero sigue siendo parte de la cultura y la vida cotidiana en EE.UU.
+
+¿Quieres que te prepare una **tabla de equivalencias rápidas** que tus estudiantes puedan usar como referencia práctica en clase?
