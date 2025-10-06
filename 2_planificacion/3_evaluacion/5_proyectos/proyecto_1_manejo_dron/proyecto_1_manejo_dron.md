@@ -133,7 +133,7 @@ El dron Tello se convierte en un **laboratorio volante** donde los estudiantes i
 
 # Sitemas de medida para el Dron  
 
-Perfecto, Marco 🚀. Te explico:
+Te explico:
 
 ## 📏 Sistema Métrico (o Sistema Internacional de Unidades – SI)
 
@@ -211,3 +211,9 @@ Este sistema se usa principalmente en **Estados Unidos, Liberia y Myanmar**.
 El **sistema métrico** es más simple y universal porque es decimal. El **sistema estadounidense** es más complejo porque no sigue múltiplos de 10, pero sigue siendo parte de la cultura y la vida cotidiana en EE.UU.
 
 ¿Quieres que te prepare una **tabla de equivalencias rápidas** que tus estudiantes puedan usar como referencia práctica en clase?
+
+
+# Trabajo de aprendizaje en Manejo del Dron que llegó el 4 de octubre de 2025  
+
+1. Estamos en la etapa de carga y encendido.  
+2. 
