@@ -1,3 +1,0 @@
-
-Posibles grupo: Laura  
-
